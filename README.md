@@ -1,9 +1,9 @@
 # I MUST
 #### Video Demo:  https://youtu.be/6EiNbg_nrbs
 #### Description:
-[^1]:Overview:
+Overview:[^1]
 
-I Must is the web application made in Flask using JavaScript, Python and SQL 
+[^1]:I Must is the web application made in Flask using JavaScript, Python and SQL 
 with the help of libraries such as jQuery and Bootstrap.
 
 For the realisation I borrowed some helper-functions used for the CS50's pset9,
@@ -23,9 +23,9 @@ I made some cool visual style too: font, boldness of the name of the current
 page in the navigation bar, background picture on the bottom of each page
 and some more.
 
-[^2]:File-by-file:
+File-by-file:[^2]
 
-application.py is the main file that contains and defines every route
+[^2]:application.py is the main file that contains and defines every route
 
 helpers.py contains login_required function, which keeps track that the user is
 logged in while trying to access the routes where it needed
