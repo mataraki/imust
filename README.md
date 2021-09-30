@@ -1,7 +1,7 @@
 # I MUST
 #### Video Demo:  https://youtu.be/6EiNbg_nrbs
 #### Description:
-#####Overview:
+Overview:
 
 I Must is the web application made in Flask using JavaScript, Python and SQL 
 with the help of libraries such as jQuery and Bootstrap.
@@ -23,7 +23,7 @@ I made some cool visual style too: font, boldness of the name of the current
 page in the navigation bar, background picture on the bottom of each page
 and some more.
 
-#####File-by-file:
+File-by-file:
 
 application.py is the main file that contains and defines every route
 
